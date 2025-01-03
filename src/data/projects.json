@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Software Engineer",
+    "imageSrc": "projects/software.png",
+    "description": "15k",
+    "link": "https://roadmap.sh/ai/software-engineer-31lod"
+  },
+  {
+    "title": "Project Manager",
+    "imageSrc": "projects/product.png",
+    "description": "9k",
+    "link": "https://roadmap.sh/ai/project-manager-covy9"
+  },
+  {
+    "title": "Data Science",
+    "imageSrc": "projects/data.png",
+    "description": "7k",
+    "link": "https://roadmap.sh/ai/data-science-gvhy5"
+  },
+  {
+    "title": "Data Scientist",
+    "imageSrc": "projects/market.png",
+    "description": "2k",
+    "link": "https://example.com/data-scientist"
+  },
+  {
+    "title": "UX Designer",
+    "imageSrc": "projects/UX.png",
+    "description": "5k",
+    "link": "https://roadmap.sh/ux-design"
+  },
+  {
+    "title": "Financial Analyst",
+    "imageSrc": "projects/financial.png",
+    "description": "20k",
+    "link": "https://roadmap.sh/ai/financial-analyst-va512"
+  }
+]
